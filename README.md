@@ -76,9 +76,9 @@ Export selected layers to custom scale size .png files, and then compress with O
 
 <br>
 
-### Unit Cnverter
+### Unit Converter
 
-![UnitCnverter](https://github.com/WaveF/FwPrism/blob/master/screenshots/retina_assistant.png)
+![UnitConverter](https://github.com/WaveF/FwPrism/blob/master/screenshots/retina_assistant.png)
 
 <br>
 
@@ -86,7 +86,7 @@ Export selected layers to custom scale size .png files, and then compress with O
 
 ![WebFont](https://github.com/WaveF/FwPrism/blob/master/screenshots/webfont.png)
 
-` 以后改名为 IconFont，未完成 `
+` ...以后改名为 IconFont，未完成... `
 
 <br>
 
