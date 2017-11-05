@@ -2,6 +2,9 @@
 
 All-in-One Command Panel for Fireworks
 
+> FwPrism is base on [JSML Library][jsml], more information please visit [JohnDurnning's website][johndurnning-web].
+
+<br>
 
 ## Install
 
@@ -25,15 +28,17 @@ All-in-One Command Panel for Fireworks
 
 - Run "FwPrism\core\restore.jsf" to restore FwPrism's Main View,
 
-```
-FwPrism is base on JSML Library, more information please visit JohnDurnning's website.
-```
+<br>
 
 ## CSS Generator
+
+If Adobe's CSS Properties panel is not working, here's the replacement.
 
 ![CSS_Gerator](https://github.com/WaveF/FwPrism/blob/master/screenshots/css_generator.png)
 
 ### v1.1.0
+
+2017-11-05
 
 更新：
 + 新增支持颜色rgba含透明色值
@@ -65,3 +70,5 @@ FwPrism is base on JSML Library, more information please visit JohnDurnning's we
 
 ### Market
 
+[jsml]: http://johndunning.com/fireworks/about/JSMLLibrary
+[johndurnning-web]: http://johndunning.com/
