@@ -78,7 +78,7 @@ Export selected layers to custom scale size .png files, and then compress with O
 
 ### Unit Converter
 
-![UnitConverter](https://github.com/WaveF/FwPrism/blob/master/screenshots/retina_assistant.png)
+![UnitConverter](https://github.com/WaveF/FwPrism/blob/master/screenshots/unit_converter.png)
 
 <br>
 
