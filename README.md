@@ -84,9 +84,9 @@ Export selected layers to custom scale size .png files, and then compress with O
 
 ### WebFont
 
-![WebFont](https://github.com/WaveF/FwPrism/blob/master/screenshots/webfont.png)
-
 ` ...以后改名为 IconFont，未完成... `
+
+![WebFont](https://github.com/WaveF/FwPrism/blob/master/screenshots/webfont.png)
 
 <br>
 
