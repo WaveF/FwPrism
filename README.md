@@ -58,17 +58,47 @@ If Adobe's CSS Properties panel is not working, here's the replacement.
 - 不支持border边框叠加
 - 移除生成老旧浏览器css选项，只会生成标准HTML5的CSS3代码
 
+<br>
+
 ### Renamer
+
+Rename selected Layers or Slices, simular as Bulk Rename Utility.
+
+![Renamer](https://github.com/WaveF/FwPrism/blob/master/screenshots/renamer.png)
+
+<br>
 
 ### Retina Assistant
 
+Export selected layers to custom scale size .png files, and then compress with OptiPNG.
+
+![RetinaAssistant](https://github.com/WaveF/FwPrism/blob/master/screenshots/retina_assistant.png)
+
+<br>
+
 ### Unit Cnverter
 
-### Measure
+![UnitCnverter](https://github.com/WaveF/FwPrism/blob/master/screenshots/retina_assistant.png)
+
+<br>
 
 ### WebFont
 
+![WebFont](https://github.com/WaveF/FwPrism/blob/master/screenshots/webfont.png)
+
+` 以后改名为 IconFont，未完成 `
+
+<br>
+
 ### Market
+
+` 服务器搬迁，等待重建... `
+
+<br>
+
+### Measure
+
+` 仅测试，等待开发... `
 
 [jsml]: http://johndunning.com/fireworks/about/JSMLLibrary
 [johndurnning-web]: http://johndunning.com/
