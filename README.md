@@ -48,6 +48,10 @@ Update:
 + hold down CTRL key and adjust clones number will +/- by 10
 + add Lightness mode for Hue group
 
+Known Issues:
+
+- Position in Range(x, y) was not working properly
+
 <br>
 
 ## CSS Generator
