@@ -38,6 +38,8 @@ Randomize position / rotation / blur / alpha / scale / color for selected layers
 
 ### v0.6.2
 
+2018-10-22
+
 Update:
 
 + click title bar will solo the randomize
