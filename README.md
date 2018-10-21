@@ -30,6 +30,24 @@ All-in-One Command Panel for Fireworks
 
 <br>
 
+## Randomize
+
+Randomize position / rotation / blur / alpha / scale / color for selected layers.
+
+![Randomize](https://github.com/WaveF/FwPrism/blob/master/screenshots/randomize.png)
+
+### v0.6.2
+
+Update:
+
++ click title bar will solo the randomize
++ add CLEAR button for re-zero the clones number
++ add Auto Exclude option for exclude the layer selected from clone number
++ hold down CTRL key and adjust clones number will +/- by 10
++ add Lightness mode for Hue group
+
+<br>
+
 ## CSS Generator
 
 If Adobe's CSS Properties panel is not working, here's the replacement.
