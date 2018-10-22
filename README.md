@@ -36,6 +36,18 @@ Randomize position / rotation / blur / alpha / scale / color for selected layers
 
 ![Randomize](https://github.com/WaveF/FwPrism/blob/master/screenshots/randomize.png)
 
+### v0.6.5
+
+2018-10-23
+
+Update:
+
++ hold down Ctrl and click RandomizeIt button will run undo before randomize
+
+Fixed:
+
++ fix Ctrl keyUp function error
+
 ### v0.6.4
 
 2018-10-23
