@@ -36,6 +36,14 @@ Randomize position / rotation / blur / alpha / scale / color for selected layers
 
 ![Randomize](https://github.com/WaveF/FwPrism/blob/master/screenshots/randomize.png)
 
+### v0.6.4
+
+2018-10-23
+
+Update:
+
++ support English and Chinese layout
+
 ### v0.6.3
 
 2018-10-22
