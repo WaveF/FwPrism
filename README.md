@@ -36,6 +36,18 @@ Randomize position / rotation / blur / alpha / scale / color for selected layers
 
 ![Randomize](https://github.com/WaveF/FwPrism/blob/master/screenshots/randomize.png)
 
+### v0.6.3
+
+2018-10-22
+
+Update:
+
++ add Fetch button for Range to fetch [x, y, width, height] from selected object
+
+Fixed:
+
++ Position in Range(x, y, width, height) will now working correctly
+
 ### v0.6.2
 
 2018-10-22
@@ -50,7 +62,7 @@ Update:
 
 Known Issues:
 
-- Position in Range(x, y) ss not working correctly
+- Position in Range(x, y) is not working correctly
 
 <br>
 
