@@ -50,7 +50,7 @@ Update:
 
 Known Issues:
 
-- Position in Range(x, y) was not working properly
+- Position in Range(x, y) ss not working correctly
 
 <br>
 

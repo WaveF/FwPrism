@@ -1,0 +1,40 @@
+{
+	"range": {
+		"enabled": true,
+		"x": 0,
+		"y": 0,
+		"width": 800,
+		"height": 600,
+		"offsetX": 0,
+		"offsetY": 0
+	},
+	"rotation": {
+		"enabled": false,
+		"from": 0,
+		"to": 360
+	},
+	"blur": {
+		"enabled": true,
+		"from": 0,
+		"to": 8
+	},
+	"alpha": {
+		"enabled": true,
+		"from": 10,
+		"to": 100
+	},
+	"scale": {
+		"enabled": true,
+		"from": 0.2,
+		"to": 1.5,
+		"lockRatio": true,
+		"lockWidth": false,
+		"lockHeight": false,
+		"lockAttribute": false
+	},
+	"hue": {
+		"enabled": false,
+		"mode": 0
+	},
+	"clones": 10
+}
